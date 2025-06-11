@@ -1,0 +1,14 @@
+button {
+    font-size: 200%;
+}
+
+.minus {
+    background-color: red;
+}
+.plus {
+    background-color: blue;
+} 
+
+.alignment {
+    text-align: center;
+}
